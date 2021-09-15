@@ -1,0 +1,25 @@
+body {
+  background-color: "white";
+  font-family: "Century Gothic";
+  padding-top: 0;
+}
+
+fieldset {
+  color: black;
+  font-size: 20px;
+  padding: 30px;
+}
+
+input {
+  color: black;
+  background-color: lightblue;
+  font-size: 20px;
+}
+
+button {
+  color: white;
+  font-family: "Century Gothic";
+  background-color: gray;
+  font-size: 20px;
+}
+
